@@ -118,13 +118,11 @@ p
 
 }
 
-/* animation */
 .emoji-face:hover
 {
     transform: scale(1.25);
 }
 
-/* styling write-up */
 .write-up
 {
     background-color: #ead9ac;
